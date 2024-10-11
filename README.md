@@ -1,7 +1,7 @@
 # This is a Library Management Application written using Java based Spring boot framework. (Without DAO)
 <br><br>
 The intention of this project is to understand the Spring boot framework.
-This project follows the MVC architecture.
+This project follows the **MVC** architecture.
 <br>
 ## Functionalities included in LMS:
 <br><br>
