@@ -1,7 +1,7 @@
 # This is a Library Management Application written using Java based Spring boot framework. (Without DAO)
 <br><br>
 ## Functionalities included in LMS:
-<br><br>
+<br>
 1. ### Functionalities about **Books**
    - Insert new book
    - View all books
